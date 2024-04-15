@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   
-  "homepage": "https://github.com/batzner/conway-game-of-life#readme",
+  
   "devDependencies": {
     "babel-core": "~6.26.0",
     "babel-polyfill": "~6.26.0",
